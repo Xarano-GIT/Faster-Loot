@@ -4,4 +4,7 @@
 ## Version: Vanilla-1.15.2
 ## Author: Xarano
 ## IconTexture: Interface\Icons\Inv_cape_special_treasure_c_01
+## X-Curse-Project-ID: 261459
+## X-WoWI-ID: 26759
+## X-Wago-ID: bGoMJr60
 FasterLoot.lua
