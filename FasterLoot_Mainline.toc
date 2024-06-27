@@ -1,7 +1,7 @@
 ## Interface: 100207, 110000
 ## Title: FasterLoot
 ## Notes: Makes the loot frame instant
-## Version: 10.2.7 + TWW Beta 11.0.0
+## Version: 11.0.0/10.2.7/4.4.4/1.15.2 AIO
 ## Author: Xarano
 ## IconTexture: Interface\Icons\Inv_cape_special_treasure_c_01
 ## X-Curse-Project-ID: 261459
