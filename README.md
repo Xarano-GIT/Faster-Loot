@@ -18,7 +18,7 @@ Only works if you have auto loot enabled, or are holding down your auto loot key
 
 * * *
 
-### **Available to download:**
+### **Available to download below:**
 
 * [Curseforge](https://www.curseforge.com/wow/addons/faster-loot)
 * [Wago](https://addons.wago.io/addons/faster-loot)
