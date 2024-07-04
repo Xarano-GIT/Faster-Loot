@@ -1,7 +1,7 @@
 ## Interface: 30403
 ## Title: FasterLoot
 ## Notes: Makes the loot frame instant
-## Version: v20240703
+## Version: v20240704
 ## Author: Xarano
 ## IconTexture: Interface\Icons\Inv_cape_special_treasure_c_01
 ## X-Curse-Project-ID: 261459
