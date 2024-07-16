@@ -10,7 +10,7 @@ Only works if you have auto loot enabled, or are holding down your auto loot key
 
 * * *
 
-![](https://img.shields.io/badge/Supports-Dragonflight-orange?style=flat&logo=battledotnet&logoColor=orange)
+![](https://img.shields.io/badge/Supports-The%20War%20Within-purple?style=flat&logo=battledotnet&logoColor=purple)
 
 ![](https://img.shields.io/badge/Supports-Wrath%20Classic-blue?style=flat&logo=battledotnet&logoColor=blue)
 
