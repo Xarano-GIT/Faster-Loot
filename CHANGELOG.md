@@ -1,5 +1,5 @@
 ## v20240724
-- Removed Dragonflight Interface version
+- Updated for TWW Prepatch, removed Dragonflight support
 
 ## v20240715
 - Refactored file structure (does not require new release)
