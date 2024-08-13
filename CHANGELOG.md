@@ -1,3 +1,6 @@
+## v20240813
+- Updated for 11.0.2, The War Within
+
 ## v20240724
 - Updated for TWW Prepatch, removed Dragonflight support
 
