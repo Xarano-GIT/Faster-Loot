@@ -1,3 +1,6 @@
+## v20240822
+- Removed 11.0.0 as all regions are now on 11.0.2
+
 ## v20240813
 - Updated for 11.0.2, The War Within
 
