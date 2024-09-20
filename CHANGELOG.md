@@ -1,3 +1,6 @@
+## v20240920
+- Added support for the 11.0.5 20th Anniversary PTR
+
 ## v20240822
 - Removed 11.0.0 as all regions are now on 11.0.2
 
