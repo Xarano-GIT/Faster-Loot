@@ -1,3 +1,6 @@
+## v20241023
+- Official Support for 11.0.5 20th Anniversary
+
 ## v20240920
 - Added support for the 11.0.5 20th Anniversary PTR
 
