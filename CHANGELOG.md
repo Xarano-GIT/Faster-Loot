@@ -1,3 +1,6 @@
+## v20241031
+- Actually Added support for Cata Classic 4.4.1
+
 ## v20241030
 - Added support for Cata Classic 4.4.1
 - Added support for 11.0.7 PTR
