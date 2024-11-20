@@ -1,3 +1,6 @@
+## v20241120
+- Added support for Classic Anniversary 1.15.5
+
 ## v20241031
 - Actually Added support for Cata Classic 4.4.1
 
