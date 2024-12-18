@@ -1,3 +1,6 @@
+## v20241218
+- Removed 10.0.5 support, hello recycled island expedition!
+
 ## v20241120
 - Added support for Classic Anniversary 1.15.5
 
