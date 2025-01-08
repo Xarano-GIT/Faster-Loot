@@ -1,3 +1,6 @@
+## v20250108
+- Added Retail PTR 11.1 support, Cata Classic PTR 4.4.2 and Classic PTR 1.15.6
+
 ## v20241218
 - Removed 10.0.5 support, hello recycled island expedition!
 
