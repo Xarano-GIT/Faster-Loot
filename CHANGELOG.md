@@ -1,3 +1,6 @@
+## v20250129
+- Added support for Classic patch 1.15.6
+
 ## v20250108
 - Added Retail PTR 11.1 support, Cata Classic PTR 4.4.2 and Classic PTR 1.15.6
 
