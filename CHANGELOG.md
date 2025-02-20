@@ -1,3 +1,6 @@
+## v20250220
+- Removed Cata CLassic 4.4.1
+
 ## v20250129
 - Added support for Classic patch 1.15.6
 
