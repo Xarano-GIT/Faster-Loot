@@ -1,3 +1,6 @@
+## v20250226
+- Removed Retail 11.0.7, fully support 11.1
+
 ## v20250220
 - Removed Cata Classic 4.4.1
 
