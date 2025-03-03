@@ -1,3 +1,6 @@
+## v20250303
+- Added 11.1 Addon list compartment functionality
+
 ## v20250226
 - Removed Retail 11.0.7, fully support 11.1
 
