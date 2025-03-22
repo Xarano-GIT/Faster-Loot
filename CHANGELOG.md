@@ -1,3 +1,6 @@
+## v20250322
+- Added China Wrath 3.4.4, Classic 1.15.7 PTR and Live 11.1.5 PTR
+
 ## v20250303
 - Added 11.1 Addon list compartment functionality
 
