@@ -1,3 +1,6 @@
+## v20250409
+- Classic 1.15.7 is now live, removed 1.15.6 compatibility
+
 ## v20250322
 - Added China Wrath 3.4.4, Classic 1.15.7 PTR and Live 11.1.5 PTR
 
