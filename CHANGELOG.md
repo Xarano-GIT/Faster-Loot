@@ -1,3 +1,6 @@
+## v20250424
+- Retail 11.1.5 is live, removed 11.1.0
+
 ## v20250409
 - Classic 1.15.7 is now live, removed 1.15.6 compatibility
 
