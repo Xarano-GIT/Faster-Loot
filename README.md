@@ -12,11 +12,15 @@ Only works if you have auto loot enabled, or are holding down your auto loot key
 
 ![](https://img.shields.io/badge/Supports-The%20War%20Within-purple?style=flat&logo=battledotnet&logoColor=purple)
 
+![](https://img.shields.io/badge/Supports-%20Mists%20Classic-limegreen?style=flat&logo=battledotnet&logoColor=limegreen)
+
 ![](https://img.shields.io/badge/Supports-Cataclysm%20Classic-darkred?style=flat&logo=battledotnet&logoColor=darkred)
 
 ![](https://img.shields.io/badge/Supports-Wrath%20Classic-blue?style=flat&logo=battledotnet&logoColor=blue)
 
 ![](https://img.shields.io/badge/Supports-Classic-yellow?style=flat&logo=battledotnet&logoColor=yellow)
+
+
 
 * * *
 
