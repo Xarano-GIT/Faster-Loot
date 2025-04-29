@@ -1,3 +1,6 @@
+## v20250429
+- Added Mists Classic PTR support
+
 ## v20250424
 - Retail 11.1.5 is live, removed 11.1.0
 
