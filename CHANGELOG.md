@@ -1,3 +1,6 @@
+## v20250502
+- Added 11.1.7 PTR support
+
 ## v20250429
 - Added Mists Classic PTR support
 
