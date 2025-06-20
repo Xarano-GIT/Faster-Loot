@@ -1,3 +1,6 @@
+## v20250620
+- Added 11.2.0 PTR Support
+
 ## v20250618
 - Removed 11.1.5 Support
 
