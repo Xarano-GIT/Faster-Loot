@@ -1,3 +1,6 @@
+## v20250709
+- Update for China Wrath 3.4.5
+
 ## v20250702
 - Maintenance update for MOP Prepatch
 
