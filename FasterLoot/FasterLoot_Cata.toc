@@ -1,11 +1,13 @@
 ## Interface: 40402
 ## Title: FasterLoot
 ## Notes: Makes the loot frame instant
-## Version: v20250709
+## Version: v20250718
 ## Author: Xarano
 ## IconTexture: Interface\Icons\Inv_cape_special_treasure_c_01
 ## Category: Looting
+## DefaultState: Enabled
 ## X-Curse-Project-ID: 261459
 ## X-WoWI-ID: 26759
 ## X-Wago-ID: bGoMJr60
+
 FasterLoot.lua

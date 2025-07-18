@@ -5,13 +5,13 @@ local LOOT_DELAY = 0.3
 
 addon:RegisterEvent("LOOT_READY")
 
-addon:SetScript("OnEvent", function ()
-	if GetCVarBool("autoLootDefault") ~= IsModifiedClick("AUTOLOOTTOGGLE") then
-		if (GetTime() - epoch) >= LOOT_DELAY then
-			for i = GetNumLootItems(), 1, -1 do
-				LootSlot(i)
-			end
-			epoch = GetTime()
-		end
-	end
+addon:SetScript("OnEvent", function()
+    if GetCVarBool("autoLootDefault") ~= IsModifiedClick("AUTOLOOTTOGGLE") then
+        if (GetTime() - epoch) >= LOOT_DELAY then
+            for i = GetNumLootItems(), 1, -1 do
+                LootSlot(i)
+            end
+            epoch = GetTime()
+        end
+    end
 end)
