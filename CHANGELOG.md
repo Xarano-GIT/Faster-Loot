@@ -1,3 +1,6 @@
+## v20250806
+- Update for Retail 11.2
+
 ## v20250718
 - Maintenance release, cleanup
 
