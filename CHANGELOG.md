@@ -1,3 +1,6 @@
+## v20250815
+- Update for Retail PTR 11.2.5
+
 ## v20250806
 - Update for Retail 11.2
 
