@@ -1,3 +1,6 @@
+## v20250823
+- 11.2.5 PTR support for real, for real this time
+
 ## v20250815
 - Update for Retail PTR 11.2.5
 
