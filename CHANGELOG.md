@@ -1,3 +1,6 @@
+## v20251002
+- 12.0.0 Midnight Alpha Support
+
 ## v20250823
 - 11.2.5 PTR support for real, for real this time
 
