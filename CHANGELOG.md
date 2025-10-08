@@ -1,3 +1,6 @@
+## v20251008
+- 11.2.0 Support ended, Legion Remix support
+
 ## v20251002
 - 12.0.0 Midnight Alpha Support
 
