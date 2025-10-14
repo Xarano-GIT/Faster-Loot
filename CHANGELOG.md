@@ -1,3 +1,6 @@
+## v20251014-2
+- Retail 11.2.7 PTR support
+
 ## v20251014
 - Vanilla 1.15.8 support
 
