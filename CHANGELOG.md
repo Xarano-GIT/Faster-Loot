@@ -1,3 +1,6 @@
+## v20251014
+- Vanilla 1.15.8 support
+
 ## v20251008
 - 11.2.0 Support ended, Legion Remix support
 
