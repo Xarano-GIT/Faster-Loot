@@ -1,3 +1,6 @@
+## v20251015
+- Added back Vanilla 1.15.7 support. .8 was the PTR, whoops
+
 ## v20251014-2
 - Retail 11.2.7 PTR support
 
