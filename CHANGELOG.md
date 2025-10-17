@@ -1,3 +1,9 @@
+## 20251017
+- Refactored Addon structure to use single TOC file for all client flavours
+- Changed Addon version to only use numerical digits
+- Default state flag removed as unnecessary
+- Added Mists 5.5.2 PTR Support
+
 ## v20251015
 - Added back Vanilla 1.15.7 support. .8 was the PTR, whoops
 
