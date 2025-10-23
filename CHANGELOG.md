@@ -1,3 +1,6 @@
+## 20251023
+- Vanilla 1.15.8 promoted to Live, .7 support removed
+
 ## 20251017
 - Refactored Addon structure to use single TOC file for all client flavours
 - Changed Addon version to only use numerical digits
