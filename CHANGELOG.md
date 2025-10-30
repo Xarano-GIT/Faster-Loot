@@ -1,3 +1,6 @@
+## 20251030
+- Mists Classic 5.5.2 update
+
 ## 20251023
 - Vanilla 1.15.8 promoted to Live, .7 support removed
 

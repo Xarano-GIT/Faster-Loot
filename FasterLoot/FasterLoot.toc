@@ -1,7 +1,7 @@
-## Interface: 120000, 110207, 110205, 50502, 50501, 40402, 30405, 20504, 11508
+## Interface: 120000, 110207, 110205, 50502, 40402, 30405, 20504, 11508
 #
 # Mainline: 120000 (Midnight Alpha), 110207 (PTR), 110205 (Live)
-# Mists: 50502 (PTR), 50501 (Live)
+# Mists: 50502 (Live)
 # Cata: 40402 (Live)
 # Wrath: 30405 (Live)
 # TBC: 20504 (Live)
