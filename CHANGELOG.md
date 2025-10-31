@@ -1,3 +1,6 @@
+## 20251031
+- Mists Classic 5.5.3 PTR support
+
 ## 20251030
 - Mists Classic 5.5.2 update
 
