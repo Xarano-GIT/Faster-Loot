@@ -1,3 +1,7 @@
+## 20251112
+- Added support for Midnight Beta
+-Updated Readme
+
 ## 20251031
 - Mists Classic 5.5.3 PTR support
 

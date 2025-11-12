@@ -10,7 +10,7 @@ Only works if you have auto loot enabled, or are holding down your auto loot key
 
 * * *
 
-![](https://img.shields.io/badge/Supports-Midnight%20ALPHA-purple?style=flat&logo=battledotnet&logoColor=purple)
+![](https://img.shields.io/badge/Supports-Midnight%20BETA-purple?style=flat&logo=battledotnet&logoColor=purple)
 
 ![](https://img.shields.io/badge/Supports-The%20War%20Within-chocolate?style=flat&logo=battledotnet&logoColor=chocolate)
 
