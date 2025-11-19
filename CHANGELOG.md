@@ -1,6 +1,9 @@
+## 20251119
+- Added support for Burning Crusade Classic Anniversary PTR
+
 ## 20251112
 - Added support for Midnight Beta
--Updated Readme
+- Updated Readme
 
 ## 20251031
 - Mists Classic 5.5.3 PTR support
