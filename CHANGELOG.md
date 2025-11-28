@@ -1,3 +1,6 @@
+## 20251128
+- Added support for the China Exclusive "Wrath Titan" flavor of WoW
+
 ## 20251119
 - Added support for Burning Crusade Classic Anniversary PTR
 
