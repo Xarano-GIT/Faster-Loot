@@ -1,4 +1,5 @@
 ## 20251210
+- Removed 11.2.5 support (forgot lol)
 - Mists Classic 5.5.3 Live support
 
 ## 20251128
