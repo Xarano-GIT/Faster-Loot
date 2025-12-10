@@ -1,3 +1,6 @@
+## 20251210
+- Mists Classic 5.5.3 Live support
+
 ## 20251128
 - Added support for the China Exclusive "Wrath Titan" flavor of WoW
 
