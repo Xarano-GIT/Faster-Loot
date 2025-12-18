@@ -7,6 +7,7 @@ Removes the delay with the loot frame and makes it instant.
 ### **Notes:**
 
 Only works if you have auto loot enabled, or are holding down your auto loot key.
+Has compatibility with TSM Destroy.
 
 * * *
 
