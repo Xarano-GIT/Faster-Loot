@@ -22,6 +22,8 @@ Has compatibility with TSM Destroy.
 
 ![](https://img.shields.io/badge/Supports-Wrath%20Classic-blue?style=flat&logo=battledotnet&logoColor=blue)
 
+![](https://img.shields.io/badge/Supports-TBC%20Classic-forestgreen?style=flat&logo=battledotnet&logoColor=forestgreen)
+
 ![](https://img.shields.io/badge/Supports-Classic-yellow?style=flat&logo=battledotnet&logoColor=yellow)
 
 
