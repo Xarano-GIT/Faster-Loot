@@ -1,3 +1,7 @@
+## 20260114
+- Added TBC Prepatch 2.5.5 support
+- Added back Midnight 12.0.0 Prepatch
+
 ## 20251210
 - Removed 11.2.5 support (forgot lol)
 - Mists Classic 5.5.3 Live support
