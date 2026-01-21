@@ -1,3 +1,6 @@
+## 20260121
+- Removed TWW 11.2.7, Goodbye!
+
 ## 20260114
 - Added TBC Prepatch 2.5.5 support
 - Added back Midnight 12.0.0 Prepatch
