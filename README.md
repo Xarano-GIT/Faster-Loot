@@ -14,8 +14,6 @@ Has compatibility with TSM Destroy.
 
 ![](https://img.shields.io/badge/Supports-Midnight-purple?style=flat&logo=battledotnet&logoColor=purple)
 
-![](https://img.shields.io/badge/Supports-The%20War%20Within-chocolate?style=flat&logo=battledotnet&logoColor=chocolate)
-
 ![](https://img.shields.io/badge/Supports-%20Mists%20Classic-limegreen?style=flat&logo=battledotnet&logoColor=limegreen)
 
 ![](https://img.shields.io/badge/Supports-Cataclysm%20Classic-orangered?style=flat&logo=battledotnet&logoColor=orangered)
