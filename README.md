@@ -12,7 +12,7 @@ Has compatibility with TSM Destroy.
 
 * * *
 
-![](https://img.shields.io/badge/Supports-Midnight%20BETA-purple?style=flat&logo=battledotnet&logoColor=purple)
+![](https://img.shields.io/badge/Supports-Midnight-purple?style=flat&logo=battledotnet&logoColor=purple)
 
 ![](https://img.shields.io/badge/Supports-The%20War%20Within-chocolate?style=flat&logo=battledotnet&logoColor=chocolate)
 
