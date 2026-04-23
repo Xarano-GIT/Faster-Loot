@@ -1,3 +1,6 @@
+## 20260423
+- Full support for Midnight 12.0.5
+
 ## 20260418
 - Support Mists 5.5.4 PTR
 
