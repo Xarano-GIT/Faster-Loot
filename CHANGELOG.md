@@ -1,3 +1,6 @@
+## 20260505
+- Support for Midnight 12.0.7 PTR
+
 ## 20260423
 - Full support for Midnight 12.0.5
 
