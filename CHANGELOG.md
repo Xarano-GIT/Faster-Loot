@@ -1,3 +1,8 @@
+## 20260617
+- Support for Midnight 12.0.7
+- Removed TBC 2.5.4 PTR (Depreciated)
+- Removed Mists 5.5.3 PTR (Depreciated)
+
 ## 20260505
 - Support for Midnight 12.0.7 PTR
 
