@@ -1,3 +1,6 @@
+## 20260619
+- Add 12.1.0 Retail PTR
+
 ## 20260617
 - Support for Midnight 12.0.7
 - Removed TBC 2.5.4 PTR (Depreciated)
