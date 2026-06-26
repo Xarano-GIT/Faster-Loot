@@ -1,3 +1,6 @@
+## 20260626
+- Added 2.5.6 TBC PTR
+
 ## 20260619
 - Add 12.1.0 Retail PTR
 
