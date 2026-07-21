@@ -1,6 +1,5 @@
 local addon = CreateFrame("Frame")
 local epoch = 0
-
 local LOOT_DELAY = 0.3
 
 addon:RegisterEvent("LOOT_READY")
