@@ -1,3 +1,6 @@
+## 20260721
+- Added Classic Era 1.15.9 Support
+
 ## 20260626
 - Added 2.5.6 TBC PTR
 
