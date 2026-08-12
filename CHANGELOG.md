@@ -1,3 +1,6 @@
+## 20260812
+- Updated to 12.1 Retail Live
+
 ## 20260721
 - Added Classic Era 1.15.9 Support
 
