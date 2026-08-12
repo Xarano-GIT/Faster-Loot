@@ -1,12 +1,12 @@
-## Interface: 120100, 50504, 40402, 30405, 38001, 20506, 20505, 11509, 11508
+## Interface: 120100, 50504, 40402, 30405, 38002, 20506, 11509
 #
 # Mainline: 120100 (Live)
 # Mists: 50504 (Live)
 # Cata: 40402 (Live)
 # Wrath: 30405 (Live)
-# Wrath (Titan): 38001 (Live China)
-# TBC: 20505 (Live), 20506 (PTR)
-# Vanilla: 11508 (Live), 11509 (PTR)
+# Wrath (Titan): 38002 (Live China)
+# TBC: 20506 (Live)
+# Vanilla: 11509 (Live)
 #
 ## Title: Faster Loot
 ## Notes: Makes the loot frame instant

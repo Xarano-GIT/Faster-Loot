@@ -1,5 +1,8 @@
 ## 20260812
-- Updated to 12.1 Retail Live
+- Updated Retail to 12.1
+- Updated Wrath China to 3.80.2
+- Updated TBC to 2.5.6
+- Updated Vanilla to 1.15.9
 
 ## 20260721
 - Added Classic Era 1.15.9 Support
