@@ -1,6 +1,6 @@
-## Interface: 120100, 50504, 40402, 30405, 38002, 20506, 11509
+## Interface: 120105, 120100, 50504, 40402, 30405, 38002, 20506, 11509
 #
-# Mainline: 120100 (Live)
+# Mainline: 120100 (Live), 120105 (PTR)
 # Mists: 50504 (Live)
 # Cata: 40402 (Live)
 # Wrath: 30405 (Live)
@@ -10,7 +10,7 @@
 #
 ## Title: Faster Loot
 ## Notes: Makes the loot frame instant
-## Version: 20260707
+## Version: 20260915
 ## Author: Xarano
 ## Category: Loot
 ## IconTexture: Interface\Icons\Inv_cape_special_treasure_c_01

@@ -1,3 +1,6 @@
+## 20260915
+- Added Retail PTR 12.1.5
+
 ## 20260812
 - Updated Retail to 12.1
 - Updated Wrath China to 3.80.2
