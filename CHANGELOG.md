@@ -1,3 +1,6 @@
+## 20260917
+- Support for Forever Beta
+
 ## 20260915
 - Added Retail PTR 12.1.5
 

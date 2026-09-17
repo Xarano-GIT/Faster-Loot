@@ -1,4 +1,4 @@
-## Interface: 120105, 120100, 50504, 40402, 30405, 38002, 20506, 11509
+## Interface: 120105, 120100, 50504, 40402, 30405, 38002, 20506, 16001, 11509
 #
 # Mainline: 120100 (Live), 120105 (PTR)
 # Mists: 50504 (Live)
@@ -6,11 +6,12 @@
 # Wrath: 30405 (Live)
 # Wrath (Titan): 38002 (Live China)
 # TBC: 20506 (Live)
+# Forever: 16001 (Beta)
 # Vanilla: 11509 (Live)
 #
 ## Title: Faster Loot
 ## Notes: Makes the loot frame instant
-## Version: 20260915
+## Version: 20260917
 ## Author: Xarano
 ## Category: Loot
 ## IconTexture: Interface\Icons\Inv_cape_special_treasure_c_01
