@@ -1,3 +1,6 @@
+## 20261014
+- 12.1.5 promoted to Live Retail
+
 ## 20260917
 - Support for Forever Beta
 
