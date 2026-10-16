@@ -1,3 +1,6 @@
+## 20261016
+- Support for Live 12.1.7 PTR
+
 ## 20261014-2
 - Updated version number
 
