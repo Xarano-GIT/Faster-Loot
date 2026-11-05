@@ -14,6 +14,8 @@ Has compatibility with TSM Destroy.
 
 ![](https://img.shields.io/badge/Supports-Midnight-purple?style=flat&logo=battledotnet&logoColor=purple)
 
+![](https://img.shields.io/badge/Supports-Forever-cyan?style=flat&logo=battledotnet&logoColor=cyan)
+
 ![](https://img.shields.io/badge/Supports-%20Mists%20Classic-limegreen?style=flat&logo=battledotnet&logoColor=limegreen)
 
 ![](https://img.shields.io/badge/Supports-Cataclysm%20Classic-orangered?style=flat&logo=battledotnet&logoColor=orangered)
@@ -21,8 +23,6 @@ Has compatibility with TSM Destroy.
 ![](https://img.shields.io/badge/Supports-Wrath%20Classic-blue?style=flat&logo=battledotnet&logoColor=blue)
 
 ![](https://img.shields.io/badge/Supports-TBC%20Classic-forestgreen?style=flat&logo=battledotnet&logoColor=forestgreen)
-
-![](https://img.shields.io/badge/Supports-Forever-cyan?style=flat&logo=battledotnet&logoColor=cyan)
 
 ![](https://img.shields.io/badge/Supports-Classic-yellow?style=flat&logo=battledotnet&logoColor=yellow)
 
