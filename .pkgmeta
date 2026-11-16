@@ -1,0 +1,6 @@
+package-as: FlyoutKeys
+
+ignore:
+ - CHANGELOG.md
+ - README.md
+ - LICENSE

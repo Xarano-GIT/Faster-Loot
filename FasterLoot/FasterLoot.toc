@@ -6,7 +6,7 @@
 # Wrath: 30405 (Live)
 # Wrath (Titan): 38002 (Live China)
 # TBC: 20506 (Live)
-# Forever: 16001 (Beta)
+# Forever: 16001 (Live)
 # Vanilla: 11509 (Live)
 #
 ## Title: Faster Loot
