@@ -1,4 +1,4 @@
-package-as: FlyoutKeys
+package-as: FasterLoot
 
 ignore:
  - CHANGELOG.md
