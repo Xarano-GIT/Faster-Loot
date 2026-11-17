@@ -1,6 +1,5 @@
 package-as: FasterLoot
 
 ignore:
- - CHANGELOG.md
  - README.md
  - LICENSE
